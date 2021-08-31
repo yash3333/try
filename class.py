@@ -6,5 +6,8 @@ class python:
         self.domain ='developer'
 
 a=python.student()
-
+a="yash"
+b=28
+c="developer"
+d='priya'
 
